@@ -5,13 +5,6 @@
 Estudante de engenharia eletrônica apaixonada por tecnologia.
 
 <p align="left">
-    <a href="https://github.com/Jhessss">
-        <img 
-            alt="Meu Github" 
-            title="Meu Github" 
-            src="https://custom-icon-badges.demolab.com/badge/Github-Siga/brightgreen.svg?logo=25231&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/jhessica-isabel-coelho/">
         <img 
             alt="Meu LinkedIn" 
