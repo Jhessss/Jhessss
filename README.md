@@ -98,6 +98,8 @@ Estudante de engenharia eletrônica apaixonada por tecnologia.
 ### 📊 Estatísticas
 
 <p>
+    <!--
+```
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -105,7 +107,7 @@ Estudante de engenharia eletrônica apaixonada por tecnologia.
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Jhessss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+-->
 <img 
       align="left" 
       alt="GitHub Stats" 
