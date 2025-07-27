@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Jhéssica, sou estudante de engenharia eletrônica e apaixonada por tecnologia.
+Estudante de engenharia eletrônica apaixonada por tecnologia.
 
 <p align="left">
     <a href="https://github.com/Jhessss">
