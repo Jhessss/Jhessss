@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Jhéssica Isabel Coelho
 
-**`Desenvolvedora FullStack`**
+ <!--**`Desenvolvedora FullStack`** -->
 
 Estudante de engenharia eletrônica apaixonada por tecnologia.
 
